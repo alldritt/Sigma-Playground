@@ -1,2 +1,6 @@
 # Sigma-Playground
-A playground for using SigmaSwiftStatistics in Playgrounds on the iPad.
+A playground for using [SigmaSwiftStatistics](https://github.com/evgenyneu/SigmaSwiftStatistics) in [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) on the iPad.
+
+
+
+
